@@ -1,6 +1,8 @@
 # Computer-Science-Programming-with-a-Purpose-Princeton-University-
-This course was taken in 2020 through Coursera. All assignments were done on IntelliJ IDEA Education Edition 2020.
-All solutions are my original work and entire course is completed in Java.
+This course was taken in 2020 through Coursera. 
+All assignments were done on IntelliJ IDEA Education Edition 2020.
+All solutions are my original work and the entire course is completed in Java.
+
 This course is 10 weeks and each week has an assignment with multiple parts. You will see that this repository is organized by the week.
 I hope you find this repository helpful when you get stuck on a problem and need help.
 
